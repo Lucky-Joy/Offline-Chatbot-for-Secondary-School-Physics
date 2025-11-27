@@ -1,0 +1,415 @@
+[
+  {
+    "id": 1,
+    "class_level": 9,
+    "topic": "Motion",
+    "subtopic": "Distance and displacement",
+    "type": "concept",
+    "difficulty": "easy",
+    "question": "What is the difference between distance and displacement?",
+    "answer": "Distance is the total path length travelled by an object, regardless of direction. Displacement is the shortest straight-line distance from the initial position to the final position, along with direction."
+  },
+  {
+    "id": 2,
+    "class_level": 9,
+    "topic": "Motion",
+    "subtopic": "Speed and velocity",
+    "type": "concept",
+    "difficulty": "easy",
+    "question": "Define speed and velocity.",
+    "answer": "Speed is the rate of change of distance with time and is a scalar quantity. Velocity is the rate of change of displacement with time and is a vector quantity having both magnitude and direction."
+  },
+  {
+    "id": 3,
+    "class_level": 9,
+    "topic": "Motion",
+    "subtopic": "Uniform and non-uniform motion",
+    "type": "concept",
+    "difficulty": "easy",
+    "question": "What is uniform motion and non-uniform motion?",
+    "answer": "An object is in uniform motion if it covers equal distances in equal intervals of time. It is in non-uniform motion if it covers unequal distances in equal intervals of time."
+  },
+  {
+    "id": 4,
+    "class_level": 9,
+    "topic": "Motion",
+    "subtopic": "Acceleration",
+    "type": "concept",
+    "difficulty": "easy",
+    "question": "What is acceleration?",
+    "answer": "Acceleration is the rate of change of velocity with time. It is a vector quantity and is given by the change in velocity divided by the time taken."
+  },
+
+  {
+    "id": 5,
+    "class_level": 9,
+    "topic": "Force and Laws of Motion",
+    "subtopic": "Definition of force",
+    "type": "concept",
+    "difficulty": "easy",
+    "question": "What is force?",
+    "answer": "Force is a push or pull acting on an object that can change its state of rest or motion, or change its shape. It is a vector quantity."
+  },
+  {
+    "id": 6,
+    "class_level": 9,
+    "topic": "Force and Laws of Motion",
+    "subtopic": "Newton's first law",
+    "type": "concept",
+    "difficulty": "easy",
+    "question": "State Newton's first law of motion.",
+    "answer": "Newton's first law of motion states that an object remains at rest or in uniform motion in a straight line unless acted upon by an external unbalanced force."
+  },
+  {
+    "id": 7,
+    "class_level": 9,
+    "topic": "Force and Laws of Motion",
+    "subtopic": "Newton's second law",
+    "type": "concept",
+    "difficulty": "medium",
+    "question": "State Newton's second law of motion.",
+    "answer": "Newton's second law of motion states that the rate of change of momentum of an object is directly proportional to the applied unbalanced force and takes place in the direction of that force. In many cases this is written as F = ma."
+  },
+  {
+    "id": 8,
+    "class_level": 9,
+    "topic": "Force and Laws of Motion",
+    "subtopic": "Newton's third law",
+    "type": "concept",
+    "difficulty": "easy",
+    "question": "State Newton's third law of motion.",
+    "answer": "Newton's third law of motion states that for every action there is an equal and opposite reaction acting on different bodies."
+  },
+
+  {
+    "id": 9,
+    "class_level": 9,
+    "topic": "Work, Energy and Power",
+    "subtopic": "Work",
+    "type": "concept",
+    "difficulty": "easy",
+    "question": "What is work in physics?",
+    "answer": "Work is said to be done when a force acts on an object and the object is displaced in the direction of the force. It is given by W = F × s, where F is the force and s is the displacement in the direction of the force."
+  },
+  {
+    "id": 10,
+    "class_level": 9,
+    "topic": "Work, Energy and Power",
+    "subtopic": "Kinetic energy",
+    "type": "concept",
+    "difficulty": "easy",
+    "question": "What is kinetic energy?",
+    "answer": "Kinetic energy is the energy possessed by an object due to its motion. For a body of mass m moving with speed v, its kinetic energy is given by KE = 1/2 m v^2."
+  },
+  {
+    "id": 11,
+    "class_level": 9,
+    "topic": "Work, Energy and Power",
+    "subtopic": "Potential energy",
+    "type": "concept",
+    "difficulty": "easy",
+    "question": "What is potential energy?",
+    "answer": "Potential energy is the energy possessed by an object due to its position or configuration. For example, an object raised to a height h has gravitational potential energy mgh."
+  },
+  {
+    "id": 12,
+    "class_level": 9,
+    "topic": "Work, Energy and Power",
+    "subtopic": "Power",
+    "type": "concept",
+    "difficulty": "easy",
+    "question": "What is power in physics?",
+    "answer": "Power is the rate at which work is done or energy is transferred. It is given by P = W/t, where W is work done and t is the time taken."
+  },
+
+  {
+    "id": 13,
+    "class_level": 9,
+    "topic": "Gravitation",
+    "subtopic": "Universal law of gravitation",
+    "type": "concept",
+    "difficulty": "medium",
+    "question": "State the universal law of gravitation.",
+    "answer": "The universal law of gravitation states that every object in the universe attracts every other object with a force that is directly proportional to the product of their masses and inversely proportional to the square of the distance between their centres."
+  },
+  {
+    "id": 14,
+    "class_level": 9,
+    "topic": "Gravitation",
+    "subtopic": "Acceleration due to gravity",
+    "type": "concept",
+    "difficulty": "easy",
+    "question": "What is acceleration due to gravity?",
+    "answer": "Acceleration due to gravity, denoted by g, is the acceleration produced in a body when it falls freely under the influence of the earth's gravitational force. Near the earth's surface its value is approximately 9.8 m/s^2."
+  },
+  {
+    "id": 15,
+    "class_level": 9,
+    "topic": "Gravitation",
+    "subtopic": "Mass and weight",
+    "type": "comparison",
+    "difficulty": "easy",
+    "question": "What is the difference between mass and weight?",
+    "answer": "Mass is the amount of matter in a body and is a scalar quantity, independent of location. Weight is the gravitational force acting on a body and is given by W = mg; it is a vector and depends on the value of g at that place."
+  },
+
+  {
+    "id": 16,
+    "class_level": 8,
+    "topic": "Pressure and Fluids",
+    "subtopic": "Pressure definition",
+    "type": "concept",
+    "difficulty": "easy",
+    "question": "What is pressure?",
+    "answer": "Pressure is the normal force acting per unit area. It is given by P = F/A, where F is the force acting perpendicular to an area A."
+  },
+  {
+    "id": 17,
+    "class_level": 8,
+    "topic": "Pressure and Fluids",
+    "subtopic": "Buoyant force",
+    "type": "concept",
+    "difficulty": "easy",
+    "question": "What is buoyant force?",
+    "answer": "Buoyant force is the upward force exerted by a fluid on a body partially or wholly immersed in it. This force makes objects seem lighter in fluids."
+  },
+  {
+    "id": 18,
+    "class_level": 8,
+    "topic": "Pressure and Fluids",
+    "subtopic": "Archimedes principle",
+    "type": "concept",
+    "difficulty": "medium",
+    "question": "State Archimedes' principle.",
+    "answer": "Archimedes' principle states that when a body is wholly or partly immersed in a fluid, it experiences an upward buoyant force equal to the weight of the fluid displaced by it."
+  },
+
+  {
+    "id": 19,
+    "class_level": 8,
+    "topic": "Heat and Temperature",
+    "subtopic": "Difference between heat and temperature",
+    "type": "comparison",
+    "difficulty": "easy",
+    "question": "What is the difference between heat and temperature?",
+    "answer": "Heat is a form of energy transferred between bodies due to a temperature difference. Temperature is a measure of the degree of hotness or coldness of a body and indicates the direction of heat flow."
+  },
+  {
+    "id": 20,
+    "class_level": 8,
+    "topic": "Heat and Temperature",
+    "subtopic": "Modes of heat transfer",
+    "type": "concept",
+    "difficulty": "easy",
+    "question": "What are the modes of heat transfer?",
+    "answer": "The three modes of heat transfer are conduction, convection and radiation. Conduction occurs mainly in solids, convection in fluids, and radiation can occur without any medium."
+  },
+
+  {
+    "id": 21,
+    "class_level": 8,
+    "topic": "Sound",
+    "subtopic": "Nature of sound waves",
+    "type": "concept",
+    "difficulty": "easy",
+    "question": "What type of wave is sound in air?",
+    "answer": "In air and other fluids, sound travels as a longitudinal wave in which particles of the medium oscillate back and forth along the direction of propagation of the wave."
+  },
+  {
+    "id": 22,
+    "class_level": 8,
+    "topic": "Sound",
+    "subtopic": "Frequency and pitch",
+    "type": "concept",
+    "difficulty": "easy",
+    "question": "How are frequency and pitch related?",
+    "answer": "Frequency is the number of oscillations per second. Pitch is the sensation of how high or low a sound is; a sound with higher frequency is heard as having a higher pitch."
+  },
+  {
+    "id": 23,
+    "class_level": 8,
+    "topic": "Sound",
+    "subtopic": "Speed of sound",
+    "type": "concept",
+    "difficulty": "easy",
+    "question": "On what factors does the speed of sound in a medium depend?",
+    "answer": "The speed of sound in a medium depends mainly on the nature of the medium (solid, liquid or gas), its temperature and, in gases, on the molecular mass. Sound generally travels fastest in solids and slowest in gases."
+  },
+
+  {
+    "id": 24,
+    "class_level": 10,
+    "topic": "Electricity",
+    "subtopic": "Electric current",
+    "type": "concept",
+    "difficulty": "easy",
+    "question": "What is electric current?",
+    "answer": "Electric current is the rate of flow of electric charge through a conductor. It is given by I = Q/t, where Q is the charge passing through a cross-section in time t."
+  },
+  {
+    "id": 25,
+    "class_level": 10,
+    "topic": "Electricity",
+    "subtopic": "Ohm's law",
+    "type": "concept",
+    "difficulty": "easy",
+    "question": "State Ohm's law.",
+    "answer": "Ohm's law states that the current flowing through a conductor is directly proportional to the potential difference across its ends, provided the physical conditions such as temperature remain constant. Mathematically, V = IR."
+  },
+  {
+    "id": 26,
+    "class_level": 10,
+    "topic": "Electricity",
+    "subtopic": "Resistance in series and parallel",
+    "type": "concept",
+    "difficulty": "medium",
+    "question": "How does the equivalent resistance change when resistors are connected in series and in parallel?",
+    "answer": "For resistors in series, the equivalent resistance is the sum of individual resistances and is greater than each of them. For resistors in parallel, the reciprocal of the equivalent resistance is the sum of the reciprocals of individual resistances, so the equivalent resistance is smaller than the smallest resistance."
+  },
+  {
+    "id": 27,
+    "class_level": 10,
+    "topic": "Electricity",
+    "subtopic": "Electric power",
+    "type": "concept",
+    "difficulty": "easy",
+    "question": "What is electric power?",
+    "answer": "Electric power is the rate at which electrical energy is consumed or produced in a circuit. It is given by P = VI, and can also be written as P = I^2 R or P = V^2 / R."
+  },
+
+  {
+    "id": 28,
+    "class_level": 10,
+    "topic": "Magnetism",
+    "subtopic": "Magnetic field",
+    "type": "concept",
+    "difficulty": "easy",
+    "question": "What is a magnetic field?",
+    "answer": "A magnetic field is the region around a magnet or a current-carrying conductor in which another magnet or magnetic material experiences a force."
+  },
+  {
+    "id": 29,
+    "class_level": 10,
+    "topic": "Magnetism",
+    "subtopic": "Right-hand thumb rule",
+    "type": "concept",
+    "difficulty": "medium",
+    "question": "State the right-hand thumb rule for a current-carrying conductor.",
+    "answer": "According to the right-hand thumb rule, if you hold a current-carrying straight conductor in your right hand such that the thumb points in the direction of current, then the curled fingers give the direction of the magnetic field lines around the conductor."
+  },
+  {
+    "id": 30,
+    "class_level": 10,
+    "topic": "Magnetism",
+    "subtopic": "Electromagnet vs permanent magnet",
+    "type": "comparison",
+    "difficulty": "easy",
+    "question": "What is the difference between an electromagnet and a permanent magnet?",
+    "answer": "An electromagnet is produced by passing current through a coil wound around a soft iron core; its strength and polarity can be changed by changing the current. A permanent magnet is made from a hard magnetic material and retains its magnetism without any external power, but its strength is fixed."
+  },
+
+  {
+    "id": 31,
+    "class_level": 10,
+    "topic": "Light",
+    "subtopic": "Reflection",
+    "type": "concept",
+    "difficulty": "easy",
+    "question": "State the laws of reflection of light.",
+    "answer": "The laws of reflection are: (1) The incident ray, the reflected ray and the normal to the reflecting surface at the point of incidence all lie in the same plane. (2) The angle of incidence is equal to the angle of reflection."
+  },
+  {
+    "id": 32,
+    "class_level": 10,
+    "topic": "Light",
+    "subtopic": "Refraction",
+    "type": "concept",
+    "difficulty": "easy",
+    "question": "What is refraction of light?",
+    "answer": "Refraction is the change in direction of light as it passes obliquely from one transparent medium to another with different optical density, due to a change in its speed."
+  },
+  {
+    "id": 33,
+    "class_level": 10,
+    "topic": "Light",
+    "subtopic": "Refractive index",
+    "type": "concept",
+    "difficulty": "medium",
+    "question": "What is refractive index?",
+    "answer": "The refractive index of a medium is the ratio of the speed of light in vacuum (or air) to the speed of light in that medium. It is a measure of how much the medium slows down light."
+  },
+
+  {
+    "id": 34,
+    "class_level": 11,
+    "topic": "Waves",
+    "subtopic": "Transverse and longitudinal waves",
+    "type": "concept",
+    "difficulty": "medium",
+    "question": "What is the difference between transverse and longitudinal waves?",
+    "answer": "In transverse waves, particles of the medium oscillate perpendicular to the direction of propagation of the wave, as in waves on a stretched string. In longitudinal waves, particles oscillate parallel to the direction of propagation, as in sound waves in air."
+  },
+  {
+    "id": 35,
+    "class_level": 11,
+    "topic": "Waves",
+    "subtopic": "Amplitude, wavelength and frequency",
+    "type": "concept",
+    "difficulty": "medium",
+    "question": "Define amplitude, wavelength and frequency of a wave.",
+    "answer": "Amplitude is the maximum displacement of a particle from its mean position. Wavelength is the distance between two consecutive points in the same phase, such as crest to crest. Frequency is the number of complete oscillations made per second."
+  },
+
+  {
+    "id": 36,
+    "class_level": 11,
+    "topic": "Heat and Temperature",
+    "subtopic": "Specific heat capacity",
+    "type": "concept",
+    "difficulty": "medium",
+    "question": "What is specific heat capacity?",
+    "answer": "Specific heat capacity is the amount of heat required to raise the temperature of 1 kilogram of a substance by 1 kelvin. It measures how difficult it is to change the temperature of the substance."
+  },
+
+  {
+    "id": 37,
+    "class_level": 12,
+    "topic": "Modern Physics",
+    "subtopic": "Modern physics definition",
+    "type": "concept",
+    "difficulty": "medium",
+    "question": "What is modern physics?",
+    "answer": "Modern physics is the branch of physics that deals with phenomena at very high speeds, very small scales or very high energies, where classical physics fails. It mainly includes quantum mechanics and the theory of relativity, along with topics such as the photoelectric effect, atomic structure and nuclear physics."
+  },
+  {
+    "id": 38,
+    "class_level": 12,
+    "topic": "Modern Physics",
+    "subtopic": "Photoelectric effect",
+    "type": "concept",
+    "difficulty": "medium",
+    "question": "What is the photoelectric effect?",
+    "answer": "The photoelectric effect is the emission of electrons from the surface of a metal when light of suitable frequency falls on it. It shows that light has particle-like behaviour and led to the concept of photons."
+  },
+  {
+    "id": 39,
+    "class_level": 12,
+    "topic": "Modern Physics",
+    "subtopic": "Work function",
+    "type": "concept",
+    "difficulty": "medium",
+    "question": "What is work function in the context of the photoelectric effect?",
+    "answer": "Work function is the minimum energy required to remove an electron from the surface of a metal. Only photons with energy equal to or greater than the work function can liberate electrons from that metal."
+  },
+
+  {
+    "id": 40,
+    "class_level": 12,
+    "topic": "Electricity",
+    "subtopic": "Drift velocity",
+    "type": "concept",
+    "difficulty": "medium",
+    "question": "What is drift velocity of electrons in a conductor?",
+    "answer": "Drift velocity is the average velocity with which free electrons move through a conductor under the influence of an applied electric field. Even though the random thermal motion is large, the net slow motion in one direction constitutes the electric current."
+  }
+]
